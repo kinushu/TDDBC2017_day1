@@ -18,6 +18,7 @@ gem 'rake'
 
 # Component requirements
 gem 'sass'
+gem 'compass', '~> 1.0.3'
 gem 'erubis', '~> 2.7.0'
 gem 'activerecord', '>= 3.1', require: 'active_record'
 gem 'sqlite3'
@@ -40,7 +41,7 @@ group :development do
 end
 
 # Padrino Stable Gem
-gem 'padrino', '0.13.0'
+gem 'padrino', '~> 0.14.0'
 
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
