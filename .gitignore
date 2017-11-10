@@ -9,3 +9,5 @@ db/*.db
 readme.html
 .idea
 .ruby-version
+
+/*.iml
