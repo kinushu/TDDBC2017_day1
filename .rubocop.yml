@@ -68,6 +68,6 @@ Style/Tab:
 Style/TrailingBlankLines:
   Enabled: true
 
-Style/TrailingComma:
+Style/TrailingCommaInLiteral:
   Exclude:
     - 'config/apps.rb'
